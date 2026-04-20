@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: plato-address
+Version: 0.1.0
+Summary: Room navigation protocol — breadcrumb trails, addressing, path finding
+License: MIT
+Requires-Python: >=3.8

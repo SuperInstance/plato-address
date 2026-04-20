@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/plato_address/__init__.py
+src/plato_address/address.py
+src/plato_address.egg-info/PKG-INFO
+src/plato_address.egg-info/SOURCES.txt
+src/plato_address.egg-info/dependency_links.txt
+src/plato_address.egg-info/top_level.txt
